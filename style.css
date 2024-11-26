@@ -1,0 +1,222 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&family=Lexend:wght@100..900&family=Outfit:wght@100..900&display=swap');
+
+*{
+    font-family: "Lexend", sans-serif;
+    color: white;
+}
+
+
+body{
+    background-image: url(philip-oroni-8kpm32LzzCU-unsplash\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    background-color: rgba(23, 0, 51, 0.599);
+    left: 706px;
+    top: 136px;
+    transition: none;
+    cursor: move;
+    height: 577px;
+
+    width: 474px;
+    position: relative;
+    left: 710px;
+    top: 131px;
+    height: 654px;
+    transition: none;
+    cursor: move;
+    border-radius: 16px;
+}
+input{
+    background-color: rgb(91, 61, 126);
+    border-radius: 8px;
+    color: white;
+    border: none;
+    padding: 5px;
+
+    position: relative;
+    left: -37px;
+    top: 27px;
+    width: 231px;
+    transition: none;
+    cursor: move;
+
+    height: 29px;
+
+    position: relative;
+    left: -11px;
+    top: 28px;
+    width: 231px;
+    height: 29px;
+    transition: none;
+    cursor: move;
+}
+input::placeholder{
+    color: white;
+}
+button{
+    background-color: rgb(74, 26, 130);
+    border-radius: 8px;
+    color: white;
+    border: none;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 191px;
+    top: 102px;
+    width: 174.594px;
+    transition: none;
+    cursor: move;
+
+    left: 117px;
+    top: 79px;
+    width: 240.594px;
+    height: 38px;
+    transition: none;
+    cursor: move;
+
+    width: 288.594px;
+    transform: translate(-19px, 0px);
+    left: 118px;
+    top: 114px;
+    transition: none;
+    cursor: move;
+}
+h1{
+    position: relative;
+    left: 0px;
+    top: 30px;
+    transition: none;
+    cursor: move;
+
+    width: 112px;
+    transform: translate(362px, 0px);
+    left: -186px;
+    top: 29px;
+    transition: none;
+    cursor: move;
+    font-weight: 400;
+   
+}
+.ola{
+    width: 127px;
+    transform: translate(418px, 0px);
+    height: 21px;
+    position: relative;
+    left: -287px;
+    top: 21px;
+    transition: none;
+    cursor: move;
+
+    left: -354px;
+    top: 23px;
+    transition: none;
+    cursor: move;
+    color: white;
+
+    left: -312px;
+    top: 30px;
+    transition: none;
+    cursor: move;
+
+    left: -326px;
+    top: 32px;
+
+    
+
+}
+.legenda{
+    width: 254px;
+    left: -325px;
+    top: 17px;
+    cursor: move;
+
+    position: relative;
+    will-change: top, left;
+    left: 109px;
+    top: 16px;
+
+    position: relative;
+    left: 107px;
+    top: 15px;
+    transition: none;
+    cursor: move;
+    left: 93px;
+    top: 15px;
+    transition: none;
+    cursor: move;
+}
+
+
+.fim{
+
+    position: relative;
+    left: -4px;
+    top: 104px;
+    transition: none;
+    cursor: move;
+    left: -8px;
+    top: 75px;
+    transition: none;
+    cursor: move;
+    color: white;
+}
+.ou{
+    position: relative;
+    left: 150px;
+    top: 89px;
+    width: 177px;
+    transition: none;
+    cursor: move;
+    left: -6px;
+    top: 89px;
+    transition: none;
+    cursor: move;
+}
+.name{
+    left: 45px;
+    top: 21px;
+    width: 376px;
+    transition: none;
+    cursor: move;
+
+    width: 284px;
+    left: 93px;
+    top: 22px;
+    transition: none;
+    cursor: move;
+}
+.senha{
+    width: 284px;
+    left: 93px;
+    top: 22px;
+    transition: none;
+    cursor: move;
+
+    left: 96px;
+    top: 75px;
+    transition: none;
+    cursor: move;
+}
+.email{
+    width: 284px;
+    left: 93px;
+    top: 22px;
+    transition: none;
+    cursor: move;
+
+    will-change: top, left;
+    left: 93px;
+    top: 49px;
+}
+a{
+    position: relative;
+    left: 183px;
+    top: 119px;
+    transition: none;
+    cursor: move;
+}
